@@ -1,0 +1,25 @@
+{
+  "name": "PlayGroundsDB",
+  "version": "0.1.0",
+  "description": "PlayGrounds",
+  "main": "hello-world-server.js",
+  "scripts": {
+	    "test": "node main.js",
+        "createTable": "node createTable.js"
+  },
+  "dependencies": {
+	    "http": "*",
+	    "xml2js": "*",
+	    "util": "*",
+		"aws-sdk": "*"
+  },
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ], 
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": {}	  
+}
