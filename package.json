@@ -11,7 +11,8 @@
 	    "http": "*",
 	    "xml2js": "*",
 	    "util": "*",
-		"aws-sdk": "*"
+		"aws-sdk": "*",
+		"express": "3.x"
   },
   "keywords": [
     "node.js",
